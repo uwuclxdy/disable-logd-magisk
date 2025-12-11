@@ -1,0 +1,6 @@
+id=disable_logging
+name=disable logd
+version=1.0
+versionCode=1
+author=uwuclxdy
+description=disables logd and sets logging level to silent on boot
